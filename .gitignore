@@ -1,8 +1,20 @@
 out
+
+# IDEA
 .idea
+*.iml
+local.properties
+
+# Gradle
 .gradle
 build
-local.properties
-*.iml
+
+# Eclipse
+bin
+.settings
+.project
+.classpath
+
+# temp files
 *swp
 *~
